@@ -22,5 +22,7 @@ Using remove instance class you resolve this problem.
 
 This add-in runs also for annotation and dimension with class extension or custom object
 
+For details: http://support.esri.com/fr/knowledgebase/techarticles/detail/17755
+
 # Requirements 
 ArcGIS 10.4 Desktop or superior
