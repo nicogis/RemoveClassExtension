@@ -1,18 +1,18 @@
-# RemoveClassExtension
-Remove class extension and Instance class
+# Remove Class Extension
 
 # Description
 
-This is an Add-in for ArcCatalog. In categories 'Remove class extension' you have two buttons. 
+This is an Add-in for ArcCatalog. In categories 'Remove class extension' you have two buttons: remove class extension and remove instance class. 
 
 If you have a feature class that has a class extension associated or a feature class that is a custom object whose behavior class
 you can use this add-in that remove the reference and set null.
 
 When previewing a feature class or adding it to a map, one of the following error messages occurs: 
-“Error opening feature class. 
-Unable to create object class extension COM component.” 
-“Error opening feature class. 
-Unable to create object class COM component.” 
+<ul>
+<li>“Error opening feature class. Unable to create object class extension COM component.”</li> 
+<li>“Error opening feature class. 
+Unable to create object class COM component.” </li>
+</ul>
 
 In the first case, the feature class has a class extension associated that is not installed on the client machine. 
 Using remove class extension you resolve this problem. 
