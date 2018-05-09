@@ -147,8 +147,8 @@
     <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Images\RemoveClassExtension.PNG" />
-    <Content Include="Images\RemoveClassExtensionSelectFeatureClass.PNG" />
+    <Content Include="Images\RemoveClassExtension.png" />
+    <Content Include="Images\RemoveClassExtensionSelectFeatureClass.png" />
   </ItemGroup>
   <PropertyGroup>
     <ZipFileExtension>esriAddIn</ZipFileExtension>
