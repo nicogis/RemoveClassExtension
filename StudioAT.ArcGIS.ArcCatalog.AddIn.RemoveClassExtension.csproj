@@ -146,6 +146,10 @@
   <ItemGroup>
     <None Include="README.md" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Images\RemoveClassExtension.PNG" />
+    <Content Include="Images\RemoveClassExtensionSelectFeatureClass.PNG" />
+  </ItemGroup>
   <PropertyGroup>
     <ZipFileExtension>esriAddIn</ZipFileExtension>
     <AddInTargetProduct>Desktop</AddInTargetProduct>

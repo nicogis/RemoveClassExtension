@@ -4,6 +4,13 @@
 
 This is an Add-in for ArcCatalog. In categories 'Remove class extension' you have two buttons: remove class extension and remove instance class. 
 
+![Remove Class Extension](Images/RemoveClassExtension.png)
+
+Select from ArcCatalog a feature class from tab Contents
+
+![Select feature class](Images/RemoveClassExtensionSelectFeatureClass.png)
+
+
 If you have a feature class that has a class extension associated or a feature class that is a custom object whose behavior class
 you can use this add-in that remove the reference and set null.
 
