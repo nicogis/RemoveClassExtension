@@ -32,4 +32,4 @@ This add-in runs also for annotation and dimension with class extension or custo
 For details: http://support.esri.com/fr/knowledgebase/techarticles/detail/17755
 
 # Requirements 
-ArcGIS 10.4 Desktop or superior
+ArcGIS 10.7.1 Desktop or superior
