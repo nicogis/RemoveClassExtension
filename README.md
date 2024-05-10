@@ -29,7 +29,7 @@ Using remove instance class you resolve this problem.
 
 This add-in runs also for annotation and dimension with class extension or custom object
 
-For details: http://support.esri.com/fr/knowledgebase/techarticles/detail/17755
+For details: [http://support.esri.com/fr/knowledgebase/techarticles/detail/17755](https://support.esri.com/en-us/knowledge-base/error-opening-feature-class-unable-to-create-object-cla-000002980)
 
 # Requirements 
 ArcGIS 10.7.1 Desktop or superior
